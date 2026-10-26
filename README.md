@@ -68,9 +68,9 @@ brew upgrade --cask iphone-data-manager
 - **Support & Troubleshooting**: [https://iphonedatamanager.com/support](https://iphonedatamanager.com/support)
 - **Turkish Website (Türkçe)**: [https://iphonedatamanager.com/tr/](https://iphonedatamanager.com/tr/)
 
-### Guides & Comparisons
-- [iPhone Backup Manager for Mac](https://iphonedatamanager.com/iphone-backup-manager-mac)
-- [iPhone Backup Extractor for Mac](https://iphonedatamanager.com/iphone-backup-extractor-mac)
-- [Export WhatsApp Chats from iPhone on Mac](https://iphonedatamanager.com/export-whatsapp-chat-iphone-mac)
-- [Backup iPhone to External Hard Drive on Mac](https://iphonedatamanager.com/backup-iphone-to-external-drive-mac)
-- [iPhone Data Manager vs iMazing](https://iphonedatamanager.com/imazing-alternative-mac)
+### Guides & Comparisons (EN / TR)
+- [iPhone Storage Manager for Mac](https://iphonedatamanager.com/iphone-storage-manager) · [TR](https://iphonedatamanager.com/tr/iphone-storage-manager)
+- [iPhone File Manager for Mac](https://iphonedatamanager.com/iphone-file-manager) · [TR](https://iphonedatamanager.com/tr/iphone-file-manager)
+- [iPhone Transfer Software for Mac](https://iphonedatamanager.com/iphone-transfer-software) · [TR](https://iphonedatamanager.com/tr/iphone-transfer-software)
+- [UltFone iOS Data Manager Alternative for Mac](https://iphonedatamanager.com/ultfone-ios-data-manager-alternative) · [TR](https://iphonedatamanager.com/tr/ultfone-ios-data-manager-alternative)
+- [My Data Manager iPhone & macOS Guide](https://iphonedatamanager.com/my-data-manager-iphone) · [TR](https://iphonedatamanager.com/tr/my-data-manager-iphone)
